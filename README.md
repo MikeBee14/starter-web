@@ -8,3 +8,9 @@ Sample website with plenty of files for demos
 
 ## GITHUB 
 This is git project which we are using as a sample project
+
+## GIT COMPARISON
+Adding git comparison section
+
+## GITHUB CONTENT 
+Comparison with repo
