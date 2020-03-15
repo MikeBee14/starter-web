@@ -5,6 +5,7 @@
 
     Michael Bardouille
     Automation Manager
+    email@email.com
 
 # THANKS
 
@@ -12,5 +13,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
-    jQuery, Modernizr, AJAX
+    HTML5, CSS3, Angular, Docker
+    jQuery, Modernizr, AJAX, Java Programming
