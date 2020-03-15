@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Michael Bardouille <twitter>
+    Michael Bardouille
+    Automation Manager
 
 # THANKS
 
