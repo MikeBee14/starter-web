@@ -14,3 +14,6 @@ Adding git comparison section
 
 ## GITHUB CONTENT 
 Comparison with repo
+
+##CONTRIBUTION
+Fork the repo
