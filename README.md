@@ -13,7 +13,7 @@ This is git project which we are using as a sample project
 Adding git comparison section
 
 ## GITHUB CONTENT 
-Comparison with repo
+Comparison with repos all kinds of repos
 
 ##CONTRIBUTION
 Fork the repo
